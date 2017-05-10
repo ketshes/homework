@@ -1,0 +1,12 @@
+---test
+	---src
+		---main
+			---java
+				---resources
+					---data.csv.text
+		---test
+			----java
+				---Homework2
+				---Homework1
+			---resources
+				---testng.xml
